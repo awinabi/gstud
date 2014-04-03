@@ -1,6 +1,8 @@
 ## Experiments with GitHub and git
 
 - rebase and squash commits
+
+
         $ git fetch origin
         $ git checkout feature-branch
         $ git rebase -i HEAD~3
