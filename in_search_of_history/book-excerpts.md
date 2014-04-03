@@ -2,3 +2,6 @@
 
 "The flood of money that gushes into politics today is a pollution of democracy." 
 
+"The best politics for any president is to be a good president." 
+
+
