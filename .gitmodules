@@ -1,0 +1,3 @@
+[submodule "codegolf"]
+	path = codegolf
+	url = git@github.com:awinabi/codegolf.git
